@@ -1,0 +1,10 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter  
+
+== Publications 
+
+. *Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing.* \n
+  *Mingxi Ye*, Yuhong Nan, Zibin Zheng, Dongpeng Wu, Huizhong Li. \n
+  International Symposium on Software Testing and Analysis (ISSTA), July 2023. \[TOP\] \[CCF-A\].\n
+. *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.* \n
+  Zibin Zheng, Neng Zhang, Jianzhong Su, Zhijie Zhong, *Mingxi Ye*, Jiachi Chen.  \n
+  International Conference on Software Engineering (ICSE), May 2023. \[TOP\] \[CCF-A\].\n
