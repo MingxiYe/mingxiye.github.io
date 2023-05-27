@@ -16,7 +16,7 @@ E-mail: yemx6\[AT\]mail2\[DOT\]sysu\[DOT\]edu\[DOT\]cn \n
 
 == About me
 
-I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] in Sun Yat-sen University, working on software engineering, fuzz testing (especially for code with functional bugs), and smart contracts.
+I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan] in Sun Yat-sen University, working on fuzz testing (especially for code with functional bugs), static analysis, and smart contracts.
 
 == Educations
 
@@ -28,6 +28,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 == Recent news
 
+- \[Numen Cyper CTF] March 31, 2023: Game was so much fun and we got the 8th place.
 - \[ISSTA 2023\] January 16, 2023: our work on Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing has been accepted by ISSTA 2023!
 - \[ICSE 2023\]  December 9, 2022: our work on Reentrancy Detection for Smart Contracts on Ethereum has been accepted by ICSE 2023!
 
@@ -42,7 +43,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 == Honors and Awards
 
-=== Seleted Academic Award
+=== Selected Academic Award
 
 . Outstanding Graduate Award, Sun Yat-sen University - July, 2021
 . Excellent Student Scholarship, Second Price, Sun Yat-sen University
@@ -50,7 +51,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Selected Capture-The-Flag (CTF)
 
-. 8nd place at Numen Cyper CTF - March, 2023
+. 8th place at Numen Cyper CTF - March, 2023
 . 3rd Runner’s Up at China Trusted Blockchain Security Attack and Defense Competition - December, 2022
 
 === Selected Web3 bugs
@@ -60,11 +61,11 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 == Talks
 
-. Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing - July 2023
+. Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing - July 2023 \n
   The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023), Seattle, United States
-. Detection of Smart Contracts Vulnerabilities - April 2023
+. Detection of Smart Contracts Vulnerabilities - April 2023 \n
   University of Electronic Science and Technology of China, Chengdu, China
-. Software Services in Ethereum System - May 2022
+. Software Services in Ethereum System - May 2022 \n
   The Ph.D. Symposium of CCF 15th International Conference on Service Science (CCF-ICSS 2023), Virtually
 
 == Professional Services
