@@ -1,5 +1,5 @@
 # jemdoc: menu{MENU}{index.html}, nofooter  
-== Mingxi Ye's  Homepage
+== Mingxi Ye's Homepage
 
 ~~~
 {}{img_left}{pictures/ayip.jpg}{alt text}{250}{260}{https:/mingxiye.github.io/}
@@ -8,10 +8,10 @@ Ph.D Candidiate \n
 
 School of Software Engineering \n
 Sun Yat-sen University \n
-Panyu District, Guangzhou, 511436
+Panyu District, Guangzhou City, 511436
 
-E-mail: yemx6\[AT\]mail2\[DOT\]sysu\[DOT\]edu\[DOT\]cn \n
-\[[https://github.com/MingxiYe GitHub]\]  \[[https://scholar.google.com/citations?user=8WbdQxsAAAAJ&hl=en Google Scholar]\] 
+E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
+\[[https://github.com/MingxiYe GitHub]\]  \[[https://scholar.google.com/citations?user=8WbdQxsAAAAJ&hl=en Google Scholar]\] \[[https://twitter.com/mingxi_ye Twitter]\]
 ~~~
 
 == About me
@@ -26,11 +26,15 @@ Ph.D candidate in Software Engineering (Advisor: Prof. Zibin Zheng & Prof. Yuhon
 - *Sun Yat-sen University*
 B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , from Sept. 2017 to Jun. 2021.
 
+== Experiences
+
+- Research intern in Ant Group. Working on smart contract fuzzing and bug hunting.
+
 == Recent news
 
+- \[MetaTrust CTF] September 15, 2023: Our team 0xdd took the 5th place!
 - \[Numen Cyper CTF] March 31, 2023: Game was so much fun and we got the 8th place.
 - \[ISSTA 2023\] January 16, 2023: our work on Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing has been accepted by ISSTA 2023!
-- \[ICSE 2023\]  December 9, 2022: our work on Reentrancy Detection for Smart Contracts on Ethereum has been accepted by ICSE 2023!
 
 == Publications 
 
@@ -45,39 +49,44 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Selected Academic Award
 
-. Outstanding Graduate Award, Sun Yat-sen University - July, 2021
-. Excellent Student Scholarship, Second Price, Sun Yat-sen University
-. Duxing Special Scholarship, Sun Yat-sen University
+. Outstanding Graduate Award, Sun Yat-sen University - July, 2021.
+. Excellent Student Scholarship, Second Price, Sun Yat-sen University.
+. Duxing Special Scholarship, Sun Yat-sen University.
 
 === Selected Capture-The-Flag (CTF)
 
-. 8th place at Numen Cyper CTF - March, 2023
-. 3rd Runner’s Up at China Trusted Blockchain Security Attack and Defense Competition - December, 2022
+. 5th place at MetaTrust CTF - September, 2023.
+. 8th place at Numen Cyper CTF - March, 2023.
+. Winner (with the ant group) at China Trusted Blockchain Security Attack and Defense Competition - September, 2023.
 
 === Selected Web3 bugs
 
-. A high-risk bug reported for Asymmetry Finance
-. 20 bugs confirmed by China National Vulnerability Database (CNVD)
+. Price manipulation bug reported for Asymmetry Finance.
+. Metamorphic contract bug reported for Basin.
+. Read-only reentrancy bug reported for Basin.
+. 20 bugs confirmed by China National Vulnerability Database (CNVD).
 
 == Talks
 
-. Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing - July 2023 \n
-  The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023), Seattle, United States
-. Detection of Smart Contracts Vulnerabilities - April 2023 \n
-  University of Electronic Science and Technology of China, Chengdu, China
-. Software Services in Ethereum System - May 2022 \n
-  The Ph.D. Symposium of CCF 15th International Conference on Service Science (CCF-ICSS 2023), Virtually
+. Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing - July 2023. \n
+  The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023), Seattle, United States.
+. Detection of Smart Contracts Vulnerabilities - April 2023. \n
+  University of Electronic Science and Technology of China, Chengdu, China.
+. Software Services in Ethereum System - May 2022. \n
+  The Ph.D. Symposium of CCF 15th International Conference on Service Science (CCF-ICSS 2023), Virtually.
 
 == Professional Services
 
 === Program Committee Member
 
-. International Conference on Blockchain and Trustworthy Systems (Blocksys), 2023
+. International Conference on Blockchain and Trustworthy Systems (Blocksys), 2023.
 
 === Sub-reviewer
 
-. ASIA Conference on Computer and Communications Security (ASIACCS)
-. International Conference on Information and Communications Security (ICICS)
-. IEEE Transactions on Information Forensics and Security (TIFS)
-. ACM Transactions on Software Engineering and Methodology (TOSEM)
-. IEEE Transactions on Services Computing (TSC)
+. International Symposium on Software Testing and Analysis (ISSTA).
+. International Conference on the Foundations of Software Engineering (FSE).
+. ASIA Conference on Computer and Communications Security (ASIACCS).
+. International Conference on Information and Communications Security (ICICS).
+. IEEE Transactions on Information Forensics and Security (TIFS).
+. ACM Transactions on Software Engineering and Methodology (TOSEM).
+. IEEE Transactions on Services Computing (TSC).
