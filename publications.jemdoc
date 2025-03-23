@@ -5,6 +5,18 @@
 . *Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing.* \n
   *Mingxi Ye*, Yuhong Nan, Zibin Zheng, Dongpeng Wu, Huizhong Li. \n
   International Symposium on Software Testing and Analysis (ISSTA), July 2023. \[TOP\] \[CCF-A\].\n
+. *Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis.* \n
+  *Mingxi Ye*, Xingwei Lin, Yuhong Nan, Jiajing Wu, Zibin Zheng. \n
+  International Symposium on Software Testing and Analysis (ISSTA), September 2024. \[TOP\] \[CCF-A\]. \n
+. *FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency.* \n
+  *Mingxi Ye*, Yuhong Nan, Hong-Ning Dai, Shuo Yang, Zibin Zheng, Xiapu Luo. \n
+  Transactions on Software Engineering and Methodology (TOSEM). \[TOP\] \[CCF-A\].\n
+. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.* \n
+  Zibin Zheng, Jianzhong Su, Jiachi Chen, David Lo, Zhijie Zhong, *Mingxi Ye*. \n
+  Transactions on Software Engineering (TSE). \[TOP\] \[CCF-A\].\n
 . *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.* \n
   Zibin Zheng, Neng Zhang, Jianzhong Su, Zhijie Zhong, *Mingxi Ye*, Jiachi Chen.  \n
   International Conference on Software Engineering (ICSE), May 2023. \[TOP\] \[CCF-A\].\n
+. *SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.* \n
+  Jingwen Zhang, Zibin Zheng, Yuhong Nan, *Mingxi Ye*, Kaiwen Ning, Yu Zhang, Weizhe Zhang. \n
+  International Conference on Software Engineering (ICSE), 2025. \[TOP\] \[CCF-A\].\n

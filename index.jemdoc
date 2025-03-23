@@ -16,7 +16,7 @@ E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
 
 == About me
 
-I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan] in Sun Yat-sen University, working on fuzz testing (especially for code with functional bugs), static analysis, and smart contracts. I also play Smart Contract CTF and Code4rena for fun.
+I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan] in Sun Yat-sen University, working on fuzz testing (especially for code with functional bugs), static analysis, and blockchain security. I also play Smart Contract CTF and Immunefi for fun.
 
 == Educations
 
@@ -29,28 +29,36 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 == Experiences
 
 - Research intern in Ant Group. Working on smart contract fuzzing and bug hunting.
-
-== Recent news
-
-- \[MetaTrust CTF] September 15, 2023: Our team 0xdd took the 5th place!
-- \[Numen Cyper CTF] March 31, 2023: Game was so much fun and we got the 8th place.
-- \[ISSTA 2023\] January 16, 2023: our work on Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing has been accepted by ISSTA 2023!
+- Visiting researcher in D23E & UCL. Working on on-chain smart contract fuzzing.
 
 == Publications 
 
 . *Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing.* \n
   *Mingxi Ye*, Yuhong Nan, Zibin Zheng, Dongpeng Wu, Huizhong Li. \n
   International Symposium on Software Testing and Analysis (ISSTA), July 2023. \[TOP\] \[CCF-A\].\n
+. *Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis.* \n
+  *Mingxi Ye*, Xingwei Lin, Yuhong Nan, Jiajing Wu, Zibin Zheng. \n
+  International Symposium on Software Testing and Analysis (ISSTA), September 2024. \[TOP\] \[CCF-A\]. \n
+. *FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency.* \n
+  *Mingxi Ye*, Yuhong Nan, Hong-Ning Dai, Shuo Yang, Zibin Zheng, Xiapu Luo. \n
+  Transactions on Software Engineering and Methodology (TOSEM). \[TOP\] \[CCF-A\].\n
+. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.* \n
+  Zibin Zheng, Jianzhong Su, Jiachi Chen, David Lo, Zhijie Zhong, *Mingxi Ye*. \n
+  Transactions on Software Engineering (TSE). \[TOP\] \[CCF-A\].\n
 . *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.* \n
   Zibin Zheng, Neng Zhang, Jianzhong Su, Zhijie Zhong, *Mingxi Ye*, Jiachi Chen.  \n
   International Conference on Software Engineering (ICSE), May 2023. \[TOP\] \[CCF-A\].\n
+. *SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.* \n
+  Jingwen Zhang, Zibin Zheng, Yuhong Nan, *Mingxi Ye*, Kaiwen Ning, Yu Zhang, Weizhe Zhang. \n
+  International Conference on Software Engineering (ICSE), 2025. \[TOP\] \[CCF-A\].\n
 
 == Honors and Awards
 
 === Selected Academic Award
 
-. Outstanding Graduate Award, Sun Yat-sen University - July, 2021.
-. Excellent Student Scholarship, Second Price, Sun Yat-sen University.
+. Yat-sen Scholar Award, Sun Yat-sen University - 2024.
+. National Scholarship for Doctoral Students - 2024.
+. Outstanding Graduate Award, Sun Yat-sen University - 2021.
 . Duxing Special Scholarship, Sun Yat-sen University.
 
 === Selected Capture-The-Flag (CTF)
@@ -59,8 +67,11 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 . 8th place at Numen Cyper CTF - March, 2023.
 . Winner (with the ant group) at China Trusted Blockchain Security Attack and Defense Competition - September, 2023.
 
-=== Selected Web3 bugs
+=== Selected Web3 bugs (Bug Bounty: $17,000+)
 
+. DoS bug reported for multiple blockchain platforms (e.g., Reth, Nethermind, Avalanche).
+. API Misbehaving bug reported for Erigon.
+. Erroneous Execution bug reported for Polygon.
 . Price manipulation bug reported for Asymmetry Finance.
 . Metamorphic contract bug reported for Basin.
 . Read-only reentrancy bug reported for Basin.
@@ -68,6 +79,10 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 == Talks
 
+. The Oracle Problem in Smart Contract Testing - October 2024. \n
+  [https://usyd-desci.github.io/seminar.html The Decentralised Science Seminar], the University of Sydney, Remotely.
+. Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis - September 2024. \n
+  The 33nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Vienna, Austria.
 . Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing - July 2023. \n
   The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023), Seattle, United States.
 . Detection of Smart Contracts Vulnerabilities - April 2023. \n
@@ -79,14 +94,16 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Program Committee Member
 
+. USENIX Security 2025 Artifact Evaluation Committee, 2025.
 . International Conference on Blockchain and Trustworthy Systems (Blocksys), 2023.
+
+=== Reviewer
+
+. ACM Transactions on Software Engineering and Methodology (TOSEM).
 
 === Sub-reviewer
 
 . International Symposium on Software Testing and Analysis (ISSTA).
 . International Conference on the Foundations of Software Engineering (FSE).
-. ASIA Conference on Computer and Communications Security (ASIACCS).
-. International Conference on Information and Communications Security (ICICS).
 . IEEE Transactions on Information Forensics and Security (TIFS).
-. ACM Transactions on Software Engineering and Methodology (TOSEM).
-. IEEE Transactions on Services Computing (TSC).
+. IEEE Transactions on Software Engineering (TSE).
