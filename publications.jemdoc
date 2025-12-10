@@ -20,3 +20,6 @@
 . *SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.* \n
   Jingwen Zhang, Zibin Zheng, Yuhong Nan, *Mingxi Ye*, Kaiwen Ning, Yu Zhang, Weizhe Zhang. \n
   International Conference on Software Engineering (ICSE), 2025. \[TOP\] \[CCF-A\].\n
+. *ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison.* \n
+  Wei Li, Yuhong Nan, *Mingxi Ye*, Jingwen Zhang, Peilin Zheng, Zibin Zheng. \n
+  IEEE Transactions on Software Engineering (TSE). \[TOP\] \[CCF-A\].\n
