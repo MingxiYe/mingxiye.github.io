@@ -4,7 +4,7 @@
 ~~~
 {}{img_left}{pictures/ayip.jpg}{alt text}{250}{260}{https:/mingxiye.github.io/}
 Mingxi Ye (叶铭熙) \n
-Ph.D Candidiate \n 
+Ph.D. Candidiate \n 
 
 School of Software Engineering \n
 Sun Yat-sen University \n
@@ -16,12 +16,12 @@ E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
 
 == About me
 
-I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan] in Sun Yat-sen University, working on fuzz testing (especially for code with functional bugs), static analysis, and system security. I also play CTF and Immunefi for fun.
+I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan] in Sun Yat-sen University, working on fuzz testing (especially for code with functional bugs), static analysis, and LLM for system security. I also play CTF and Immunefi for fun.
 
 == Educations
 
 - *Sun Yat-sen University*
-Ph.D candidate in Software Engineering (Advisor: Prof. Zibin Zheng & Prof. Yuhong Nan), since Sept. 2021.
+Ph.D. candidate in Software Engineering (Advisor: Prof. Zibin Zheng & Prof. Yuhong Nan), since Sept. 2021.
 
 - *Sun Yat-sen University*
 B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , from Sept. 2017 to Jun. 2021.
@@ -59,10 +59,10 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Selected Academic Award
 
+. BYD Scholarship, Sun Yat-sen University - 2025.
 . Yat-sen Scholar Award, Sun Yat-sen University - 2024.
 . National Scholarship for Doctoral Students - 2024.
 . Outstanding Graduate Award, Sun Yat-sen University - 2021.
-. Duxing Special Scholarship, Sun Yat-sen University.
 
 === Selected Capture-The-Flag (CTF)
 
@@ -70,7 +70,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 . 8th place at Numen Cyper CTF - March, 2023.
 . Winner (with the ant group) at China Trusted Blockchain Security Attack and Defense Competition - September, 2023.
 
-=== Selected Web3 bugs (Bug Bounty: $17,000+)
+=== Selected Web3 bugs (Bug Bounty: $19,000+)
 
 . DoS bug reported for multiple blockchain platforms (e.g., Reth, Nethermind, Avalanche).
 . API Misbehaving bug reported for Erigon.
@@ -78,7 +78,6 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 . Price manipulation bug reported for Asymmetry Finance.
 . Metamorphic contract bug reported for Basin.
 . Read-only reentrancy bug reported for Basin.
-. 20 bugs confirmed by China National Vulnerability Database (CNVD).
 
 == Talks
 
