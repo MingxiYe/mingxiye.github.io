@@ -4,11 +4,9 @@
 ~~~
 {}{img_left}{pictures/ayip.jpg}{alt text}{250}{260}{https:/mingxiye.github.io/}
 Mingxi Ye (叶铭熙) \n
-Ph.D. Candidiate \n 
+Postdoctoral Fellow \n 
 
-School of Software Engineering \n
-Sun Yat-sen University \n
-Panyu District, Guangzhou City, 511436
+The Hong Kong Polytechnic University \n
 
 E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
 \[[https://github.com/MingxiYe GitHub]\]  \[[https://scholar.google.com/citations?user=8WbdQxsAAAAJ&hl=en Google Scholar]\] \[[https://twitter.com/mingxi_ye Twitter]\]
@@ -16,9 +14,11 @@ E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
 
 == About me
 
-I am currently a Ph.D. candidate supervised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan] in Sun Yat-sen University, working on fuzz testing (especially for code with functional bugs), static analysis, and LLM for system security. I also play CTF and Immunefi for fun.
+I am a postdoctoral fellow at The Hong Kong Polytechnic University. I received my Ph.D. from Sun Yat-sen University, where I was fortunate to be advised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan]. My research interests include LLMs for system security, LLM security, and specialized intelligence. In my spare time, I play CTFs and hunt bugs on Immunefi.
 
-== Educations
+*I am currently seeking a research scientist position in both academia and industry.*
+
+== Education
 
 - *Sun Yat-sen University*
 Ph.D. candidate in Software Engineering (Advisor: Prof. Zibin Zheng & Prof. Yuhong Nan), since Sept. 2021.
@@ -29,51 +29,58 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 == Experiences
 
 - Research intern in Ant Group. Working on smart contract fuzzing and bug hunting.
+- Research intern in an AI agent startup (HKUST spin-off). Working on cost-efficient coding agents.
 
 == Publications 
 
+. *ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents.* \n
+  *Mingxi Ye*, Yuhong Nan, Zhijie Zhong, Jianzhong Su, Xingwei Lin, Peilin Zheng, Zibin Zheng. \n
+  International Conference on the Foundations of Software Engineering (FSE). \[CCF-A\].\n
+. *Towards Understanding Functional Bugs in EVM-based Blockchain Systems.* \n
+  *Mingxi Ye*, Yuhong Nan, Jianzhong Su, Zhijie Zhong, Yuming Xiao, Peilin Zheng. \n
+  IEEE Transactions on Software Engineering (TSE). \[CCF-A\].\n
 . *Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing.* \n
   *Mingxi Ye*, Yuhong Nan, Zibin Zheng, Dongpeng Wu, Huizhong Li. \n
-  International Symposium on Software Testing and Analysis (ISSTA), July 2023. \[CCF-A\].\n
+  International Symposium on Software Testing and Analysis (ISSTA). \[CCF-A\].\n
 . *Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis.* \n
   *Mingxi Ye*, Xingwei Lin, Yuhong Nan, Jiajing Wu, Zibin Zheng. \n
-  International Symposium on Software Testing and Analysis (ISSTA), September 2024. \[CCF-A\].\n
+  International Symposium on Software Testing and Analysis (ISSTA). \[CCF-A\].\n
 . *FunFuzz: A Function-oriented Fuzzer for Smart Contract Vulnerability Detection with High Effectiveness and Efficiency.* \n
   *Mingxi Ye*, Yuhong Nan, Hong-Ning Dai, Shuo Yang, Zibin Zheng, Xiapu Luo. \n
-  Transactions on Software Engineering and Methodology (TOSEM). \[CCF-A\].\n
-. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.* \n
-  Zibin Zheng, Jianzhong Su, Jiachi Chen, David Lo, Zhijie Zhong, *Mingxi Ye*. \n
-  Transactions on Software Engineering (TSE). \[CCF-A\].\n
-. *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.* \n
-  Zibin Zheng, Neng Zhang, Jianzhong Su, Zhijie Zhong, *Mingxi Ye*, Jiachi Chen.  \n
-  International Conference on Software Engineering (ICSE), May 2023. \[CCF-A\].\n
-. *SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.* \n
-  Jingwen Zhang, Zibin Zheng, Yuhong Nan, *Mingxi Ye*, Kaiwen Ning, Yu Zhang, Weizhe Zhang. \n
-  International Conference on Software Engineering (ICSE), 2025. \[CCF-A\].\n
+  ACM Transactions on Software Engineering and Methodology (TOSEM). \[CCF-A\].\n
+. *ParityFuzz: Finding inconsistencies across solidity compilers via fine-grained mutation and differential analysis.* \n
+  Bowei Su, *Mingxi Ye*, Yuhong Nan, Peilin Zheng, Zibin Zheng. \n
+  Journal of Systems and Software. \n
+. *Odyssey: Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration.* \n
+  Jianzhong Su, *Mingxi Ye*, Jiachi Chen, Yuhong Nan, Peilin Zheng, Tao Zhang, Zibin Zheng. \n
+  International Conference on the Foundations of Software Engineering (FSE). \[CCF-A\].\n
+. *Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context.* \n
+  Zhijie Zhong, Yuhong Nan, *Mingxi Ye*, Qing Xue, Jiashui Wang, Long Liu, Xinlei Ying, Zibin Zheng. \n
+  International Conference on Software Engineering (ICSE). \[CCF-A\].\n
 . *ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison.* \n
   Wei Li, Yuhong Nan, *Mingxi Ye*, Jingwen Zhang, Peilin Zheng, Zibin Zheng. \n
   IEEE Transactions on Software Engineering (TSE). \[CCF-A\].\n
-. *Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context.* \n
-  Zhijie Zhong, Yuhong Nan, *Mingxi Ye*, Qing Xue, Jiashui Wang, Long Liu, Xinlei Ying, Zibin Zheng. \n
-  International Conference on Software Engineering (ICSE), 2026. \[CCF-A\].\n
-. *ChainDelta: Automatic Patch-based Exploit Generation for Ethereum with Fuzzing Agents.* \n
-  *Mingxi Ye*, Yuhong Nan, Zhijie Zhong, Jianzhong Su, Xingwei Lin, Peilin Zheng, Zibin Zheng. \n
-  International Conference on the Foundations of Software Engineering (FSE), 2026. \[CCF-A\].\n
-. *Odyssey : Hunting Smart Contract Vulnerabilities with Fine-grained State Modeling and Exploration.* \n
-  Jianzhong Su, *Mingxi Ye*, Jiachi Chen, Yuhong Nan, Peilin Zheng, Tao Zhang, Zibin Zheng. \n
-  International Conference on the Foundations of Software Engineering (FSE), 2026. \[CCF-A\].\n
+. *SmartReco: Detecting Read-Only Reentrancy via Fine-Grained Cross-DApp Analysis.* \n
+  Jingwen Zhang, Zibin Zheng, Yuhong Nan, *Mingxi Ye*, Kaiwen Ning, Yu Zhang, Weizhe Zhang. \n
+  International Conference on Software Engineering (ICSE). \[CCF-A\].\n
 . *V2E: Validating Smart Contract Vulnerabilities through Profit-driven Exploit Generation and Execution.* \n
-  Jianwen Zhang, Yuhong Nan, Kaiwen Ning, Mingxi Ye, Wei Li, Yuming Xiao, Yuming Feng, Weizhe Zhang, Zibin Zheng. \n
-  International Conference on the Foundations of Software Engineering (FSE), 2026. \[CCF-A\].\n
+  Jianwen Zhang, Yuhong Nan, Kaiwen Ning, *Mingxi Ye*, Wei Li, Yuming Xiao, Yuming Feng, Weizhe Zhang, Zibin Zheng. \n
+  International Conference on the Foundations of Software Engineering (FSE). \[CCF-A\].\n
+. *DAppSCAN: Building Large-Scale Datasets for Smart Contract Weaknesses in DApp Projects.* \n
+  Zibin Zheng, Jianzhong Su, Jiachi Chen, David Lo, Zhijie Zhong, *Mingxi Ye*. \n
+  IEEE Transactions on Software Engineering (TSE). \[CCF-A\].\n
+. *Turn the Rudder: A Beacon of Reentrancy Detection for Smart Contracts on Ethereum.* \n
+  Zibin Zheng, Neng Zhang, Jianzhong Su, Zhijie Zhong, *Mingxi Ye*, Jiachi Chen. \n
+  International Conference on Software Engineering (ICSE). \[CCF-A\].\n
 
 == Honors and Awards
 
 === Selected Academic Award
 
+. Outstanding Ph.D. Graduate Award, Sun Yat-sen University - 2026.
 . BYD Scholarship, Sun Yat-sen University - 2025.
 . Yat-sen Scholar Award, Sun Yat-sen University - 2024.
 . National Scholarship for Doctoral Students - 2024.
-. Outstanding Graduate Award, Sun Yat-sen University - 2021.
 
 === Selected Capture-The-Flag (CTF)
 
@@ -95,7 +102,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 . The Oracle Problem in Smart Contract Testing - October 2024. \n
   [https://usyd-desci.github.io/seminar.html The Decentralised Science Seminar], the University of Sydney, Remotely.
 . Midas: Mining Profitable Exploits in On-Chain Smart Contracts via Feedback-Driven Fuzzing and Differential Analysis - September 2024. \n
-  The 33nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Vienna, Austria.
+  The 33rd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2024), Vienna, Austria.
 . Detecting State Inconsistency Bugs in DApps via On-Chain Transaction Replay and Fuzzing - July 2023. \n
   The 32nd ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA 2023), Seattle, United States.
 . Detection of Smart Contracts Vulnerabilities - April 2023. \n
@@ -114,12 +121,5 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Reviewer
 
-. ACM Transactions on Software Engineering and Methodology (TOSEM).
 . IEEE Transactions on Software Engineering (TSE).
 . Blockchain: Research and Applications (BCRA).
-
-=== Sub-reviewer
-
-. International Symposium on Software Testing and Analysis (ISSTA).
-. International Conference on the Foundations of Software Engineering (FSE).
-. IEEE Transactions on Information Forensics and Security (TIFS).
