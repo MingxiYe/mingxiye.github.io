@@ -2,7 +2,7 @@
 == Mingxi Ye's Homepage
 
 ~~~
-{}{img_left}{pictures/ayip.jpg}{alt text}{250}{260}{https:/mingxiye.github.io/}
+{}{img_left}{pictures/ayip.jpg}{alt text}{250}{260}{https://mingxiye.github.io/}
 Mingxi Ye (叶铭熙) \n
 Postdoctoral Fellow \n 
 
@@ -14,7 +14,7 @@ E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
 
 == About me
 
-I am a postdoctoral fellow at The Hong Kong Polytechnic University. I received my Ph.D. from Sun Yat-sen University, where I was fortunate to be advised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan]. My research interests include LLMs for system security, LLM security, and specialized intelligence. In my spare time, I play CTFs and hunt bugs on Immunefi.
+I am a postdoctoral fellow at The Hong Kong Polytechnic University. I received my Ph.D. from Sun Yat-sen University, where I was fortunate to be advised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan]. I used to work on software security, building automated testing and analysis tools to find bugs in blockchain systems and compilers. I am currently interested in LLMs for security and software analysis, and LLM security. I used to play CTFs and hunt bugs on Immunefi.
 
 *I am currently seeking a research scientist position in both academia and industry.*
 
@@ -57,6 +57,9 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 . *Is My RPC Response Reliable? Detecting RPC Bugs in Blockchain Client under Context.* \n
   Zhijie Zhong, Yuhong Nan, *Mingxi Ye*, Qing Xue, Jiashui Wang, Long Liu, Xinlei Ying, Zibin Zheng. \n
   International Conference on Software Engineering (ICSE). \[CCF-A\].\n
+. *RPCSpecter: Detecting Blockchain RPC Bugs through a Specification-Driven, Constraint-Aware Fuzzing Approach.* \n
+  Yuming Xiao, Yuhong Nan, Zhijie Zhong, *Mingxi Ye*, Zibin Zheng. \n
+  International Symposium on Software Testing and Analysis (ISSTA). \[CCF-A\].\n
 . *ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison.* \n
   Wei Li, Yuhong Nan, *Mingxi Ye*, Jingwen Zhang, Peilin Zheng, Zibin Zheng. \n
   IEEE Transactions on Software Engineering (TSE). \[CCF-A\].\n
