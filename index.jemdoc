@@ -5,20 +5,19 @@
 {}{img_left}{pictures/ayip.jpg}{alt text}{250}{260}{https://mingxiye.github.io/}
 Mingxi Ye (叶铭熙) \n
 
-E-mail: yemx6 \[AT\] mail2 \[DOT\] sysu \[DOT\] edu \[DOT\] cn \n
-\[[https://github.com/MingxiYe GitHub]\]  \[[https://scholar.google.com/citations?user=8WbdQxsAAAAJ&hl=en Google Scholar]\] \[[https://twitter.com/mingxi_ye Twitter]\]
+[https://github.com/MingxiYe GitHub] \n
+[https://scholar.google.com/citations?user=8WbdQxsAAAAJ&hl=en Google Scholar] \n
+[https://twitter.com/mingxi_ye Twitter]
 ~~~
 
 == About me
 
-I received my Ph.D. from Sun Yat-sen University, where I was fortunate to be advised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan]. I used to work on software security, building automated testing and analysis tools to find bugs in blockchain systems and compilers. I am currently interested in LLMs for security and software analysis, and LLM security. I used to play CTFs and hunt bugs on Immunefi.
-
-*I am currently seeking a research scientist position in both academia and industry.*
+I am currently a postdoctoral researcher at the Hong Kong University of Science and Technology, working with [https://cse.hkust.edu.hk/~charlesz/ Prof. Charles Zhang]. I received my Ph.D. from Sun Yat-sen University, where I was fortunate to be advised by [https://scholar.google.com/citations?user=zWnsNrkAAAAJ&hl=en Prof. Zibin Zheng] and [https://scholar.google.com/citations?user=tkE-vsEAAAAJ&hl=en Prof. Yuhong Nan]. I used to work on software security, building automated testing and analysis tools to find bugs in blockchain systems and compilers. I am currently interested in LLMs for security and software analysis, and LLM security. I used to play CTFs and hunt bugs on Immunefi.
 
 == Education
 
 - *Sun Yat-sen University*
-Ph.D. candidate in Software Engineering (Advisor: Prof. Zibin Zheng & Prof. Yuhong Nan), since Sept. 2021.
+Ph.D. in Software Engineering (Advisor: Prof. Zibin Zheng & Prof. Yuhong Nan), from Sept. 2021 to Jul. 2026.
 
 - *Sun Yat-sen University*
 B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , from Sept. 2017 to Jun. 2021.
@@ -56,7 +55,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
   International Conference on Software Engineering (ICSE). \[CCF-A\].\n
 . *RPCSpecter: Detecting Blockchain RPC Bugs through a Specification-Driven, Constraint-Aware Fuzzing Approach.* \n
   Yuming Xiao, Yuhong Nan, Zhijie Zhong, *Mingxi Ye*, Zibin Zheng. \n
-  International Symposium on Software Testing and Analysis (ISSTA). \[CCF-A\].\n
+  International Symposium on Software Testing and Analysis (ISSTA). \[CCF-A\]. {{<span style="display:inline-block; padding:1px 8px; border:1px solid rgb(201,162,39); border-radius:10px; background:rgb(255,248,225); color:rgb(138,109,0); font-weight:bold; font-size:90%;">🏆 ACM SIGSOFT Distinguished Paper Award</span>}}\n
 . *ASTRO: Detecting Access Control Vulnerabilities in Smart Contracts via Graph Similarity Comparison.* \n
   Wei Li, Yuhong Nan, *Mingxi Ye*, Jingwen Zhang, Peilin Zheng, Zibin Zheng. \n
   IEEE Transactions on Software Engineering (TSE). \[CCF-A\].\n
@@ -77,6 +76,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Selected Academic Award
 
+. ACM SIGSOFT Distinguished Paper Award - 2026.
 . Outstanding Ph.D. Graduate Award, Sun Yat-sen University - 2026.
 . BYD Scholarship, Sun Yat-sen University - 2025.
 . Yat-sen Scholar Award, Sun Yat-sen University - 2024.
@@ -88,7 +88,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 . 8th place at Numen Cyper CTF - March, 2023.
 . Winner (with the ant group) at China Trusted Blockchain Security Attack and Defense Competition - September, 2023.
 
-=== Selected Web3 bugs (Bug Bounty: $19,000+)
+=== Selected Web3 bugs
 
 . DoS bug reported for multiple blockchain platforms (e.g., Reth, Nethermind, Avalanche).
 . API Misbehaving bug reported for Erigon.
@@ -114,6 +114,7 @@ B.Sc. in Mathematics and Applied Mathematics (w/ Outstanding Graduate Award) , f
 
 === Program Committee Member
 
+. The AAAI Conference on Artificial Intelligence (AAAI) Program Committee, 2027.
 . The ACM Web Conference Program Committee, 2026.
 . USENIX Security 2025 Artifact Evaluation Committee, 2025.
 . The 2nd Workshop on Explainable and Reliable Software Systems (EXPRESS) Program Committee, 2026.
